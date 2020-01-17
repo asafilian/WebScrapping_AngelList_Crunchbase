@@ -1,4 +1,4 @@
-# WebScrapping (AngelList, Crunchbase, LinkedIn)
+# WebScrapping (AngelList, Crunchbase)
 In this repository, you can find some Python classes showing how to scrape AngelList (https://angel.co/) and Crunchbase (https://www.crunchbase.com/).
 
 
