@@ -5,4 +5,3 @@ Websites are an ocean of limitless information which anyone and everyone can acc
 
 Some of the benefits of web scraping to organizations across industries are as follow
 
-
