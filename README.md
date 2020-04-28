@@ -13,7 +13,7 @@ Some of the benefits of web scraping to organizations across industries are as f
 
 I show, in this Repository, how to scrape [AngelList](https://angel.co/) and [Crunchbase](https://www.crunchbase.com/) to get valuable data about startups. 
 
-![angelcrunch](img/angellist-crunchbase/jpg)
+![angelcrunch](img/angellist-crunchbase.jpg)
 
 Crunchbase is a platform for finding business information about private and public companies. Crunchbase information includes investments and funding information, founding members and individuals in leadership positions, mergers and acquisitions, news, and industry trends. I used the Crunchbase API, the free access one, to get the general information about companies registered on Crunchbase. I also showed how to scrape the Crunchbase profile page for a given company to get more information. To this end, you first need to let the class have your username and password to let it login through the app. This is because you cannot get access to the profile pages of companies without siging in. Again, this could be illegal, and you want to make sure that you already got permission to scrape companies profile pages via your app.
 
